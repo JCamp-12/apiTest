@@ -8,7 +8,7 @@ exports.seed = function(knex) {
           bio: 'Gardener and poet. Married to Rose Cotton',
         },
         {
-          name: 'Frodo Baggins',
+          name: 'Frodo B Baggins',
           bio: 'The ring bearer',
         },
       ]);
